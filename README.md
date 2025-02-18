@@ -40,6 +40,4 @@ ent_count_Education_Level_Months_Inactive_12_mon_1: Naive Bayes.
 - Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Depend
 ent_count_Education_Level_Months_Inactive_12_mon12: Naive Bayes.
 # Làm sạch dữ liệu
-import pandas as pd
-import numpy as np
 
