@@ -35,9 +35,11 @@ Dữ liệu gốc được lấy từ trang wed Kangle.com dưới dạng tệp 
 - Total_Trans_Ct: tổng số giao dịch trong 12 ttháng vừa qua.
 - Total_Ct_Chng_Q4_Q1: Thay đổi trong số lượng giao dịch (Quý 4 so với Quý 1).
 - Avg_ Utilization_Ratio: tỉ lệ sử dụng thẻ trung bình.
--Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Depend
+- Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Depend
 ent_count_Education_Level_Months_Inactive_12_mon_1: Naive Bayes.
--Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Depend
+- Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Depend
 ent_count_Education_Level_Months_Inactive_12_mon12: Naive Bayes.
-#Làm sạch dữ liệu
+# Làm sạch dữ liệu
+import pandas as pd
+import numpy as np
 
