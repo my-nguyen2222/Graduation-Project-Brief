@@ -29,10 +29,10 @@ Dữ liệu gốc được lấy từ trang wed Kangle.com dưới dạng tệp 
 - Contacts_Count_12_mon: số tháng hoạt động trong 12 tháng vừa qua.
 - Credit_Limit: hạn mức thẻ tín dụng của khách hàng.
 - Total_Revolving_Bal: tổng số dư nợ quay vòng trên thẻ tín dụng.
-- Avg_Open_To_Buy: hạn mức tín dụng còn lại để sử dụng.
+- Avg_Open_To_Buy: hạn mức tín dụng còn lại để sử dụng (trung bình 12 tháng qua).
 - Total_Amt_Chng_Q4_Q1: thay đổi về số tiền giao dịch (Quý 4 so với Quý 1).
 - Total_Trans_Amt: tổng số tiền giao dịch trong 12 tháng vừa qua.
-- Total_Trans_Ct: tổng số giao dịch trong 12 ttháng vừa qua.
+- Total_Trans_Ct: tổng số giao dịch trong 12 tháng vừa qua.
 - Total_Ct_Chng_Q4_Q1: Thay đổi trong số lượng giao dịch (Quý 4 so với Quý 1).
 - Avg_ Utilization_Ratio: tỉ lệ sử dụng thẻ trung bình.
 - Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Depend
